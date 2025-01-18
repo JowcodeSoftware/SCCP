@@ -1,2 +1,2 @@
-# sccp
+# SCCP
 Esporte Clube Corinthians Paulista
